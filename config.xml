@@ -6,9 +6,8 @@
     <author email="humas@flp.or.id" href="http://www.flp.or.id">Humas BPP FLP</author>
 
     <preference name="phonegap-version" value="3.5.0" />
-    <feature name="http://api.phonegap.com/1.0/device" />
     
-    <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
+    <preference name="orientation" value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.camera" />
